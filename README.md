@@ -26,7 +26,7 @@ A collection of optimized batch scripts (`.bat`) to automate tasks, fix Windows 
    **Right-click** the file → select **"Run as administrator"** *(if admin rights are required)*.  
 3. Làm theo hướng dẫn hiển thị trên màn hình.  
    Follow the on-screen instructions.
-
+Lưu Ý. Nếu Chưa bật hiển phần mở rộng tên tệp ( file name extensions ) thì bật lên mới hiển thị được đuôi .bat
 ---
 
 ## ⚠️ Lưu ý  
