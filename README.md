@@ -27,6 +27,14 @@ A collection of optimized batch scripts (`.bat`) to automate tasks, fix Windows 
 3. Làm theo hướng dẫn hiển thị trên màn hình.  
    Follow the on-screen instructions.
 Lưu Ý. Nếu Chưa bật hiển phần mở rộng tên tệp ( file name extensions ) thì bật lên mới hiển thị được đuôi .bat
+
+## 📄 Danh sách Script
+**Script List**
+
+- `BackupDocuments.bat` – Sao lưu thư mục Documents của người dùng / Backup user's Documents folder.
+- `DiskCleanup.bat` – Chạy Disk Cleanup tự động / Run Disk Cleanup automatically.
+- `ShowStartupPrograms.bat` – Liệt kê chương trình khởi động cùng hệ thống / List startup programs.
+
 ---
 
 ## ⚠️ Lưu ý  
