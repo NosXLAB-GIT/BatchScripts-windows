@@ -8,11 +8,11 @@ if '%errorlevel%' NEQ '0' (
 )
 :: Bat dau chuong trinh
 color 0A
-title NosXLab Tools - Windows Utility Pack
+title NosXTools - Windows Utility Pack
 :MENU
 cls
 echo ================================================
-echo         NOSXLAB WINDOWS TOOLKIT - V1.0
+echo         NOSXTools WINDOWS TOOLKIT - V1.1
 echo ================================================
 echo [1] Kiem tra thong tin Windows
 echo [2] Tat Windows Defender
