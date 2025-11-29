@@ -11,7 +11,7 @@ title Reset Windows Update - NosXLab Edition
     exit /b
 )
 
-:: ==================== NosXLAB ====================
+:: ==================== NosXTools ====================
 
 :: Prompt to Run as administrator
 Set "Variable=0" & if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs"
